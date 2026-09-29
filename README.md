@@ -5,7 +5,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=MCA+Student+%26+Full-Stack+Web+Developer;Web+Technologies+%26+Software+QA+Engineer;HTML5%2C+CSS3%2C+JavaScript%2C+Bootstrap%2C+PHP%2C+SQL;Building+Responsive+Web+Apps+%26+Ensuring+Software+Quality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=MCA+Student+%26+Web+Developer;Web+Technologies+%26+Software+QA+Engineer;HTML5%2C+CSS3%2C+JavaScript%2C+Bootstrap%2C+PHP%2C+SQL;Building+Responsive+Web+Apps+%26+Ensuring+Software+Quality" alt="Typing Animation" />
 
   <br/><br/>
 
@@ -48,12 +48,12 @@
 ---
 
 <!-- 2. ABOUT SECTION -->
-## 📋 About Me
+## 🚀 About Me
 
 I am a detail-oriented **Master of Computer Applications (MCA) student** with a solid foundation in web development, modern web technologies, and software quality assurance. I specialize in crafting clean, responsive, and user-friendly web interfaces using **HTML5, CSS3, JavaScript, Bootstrap 5, PHP, and SQL**, alongside manual and automated software testing methodologies.
 
 ### 💡 Engineering Core Competencies
-* **Full-Stack Web Development**: Hands-on experience developing modular, mobile-responsive web applications with functional frontend components and backend integration.
+* **Web Development & Frontend Engineering**: Hands-on experience developing modular, mobile-responsive web applications with functional frontend components and clean layout architecture.
 * **Software Quality Assurance & Testing**: Skilled in manual testing, test case design, defect identification, regression testing, smoke testing, SQL database validation, and API testing.
 * **Generative AI & Modern Workflows**: Proficient in integrating AI-assisted developer workflows (Cursor, Antigravity) and leveraging IBM Generative AI fundamentals.
 * **Product Engineering Mindset**: Focused on delivering high-performance, accessible, visually compelling digital solutions with zero critical defects.
