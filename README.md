@@ -58,9 +58,12 @@ I am a detail-oriented **Master of Computer Applications (MCA) student** with a 
 * **Generative AI & Modern Workflows**: Proficient in integrating AI-assisted developer workflows (Cursor, Antigravity) and leveraging IBM Generative AI fundamentals.
 * **Product Engineering Mindset**: Focused on delivering high-performance, accessible, visually compelling digital solutions with zero critical defects.
 
-┌─────────────────────────────────────────────────────────────────────────────┐ │ 🚀 OPEN TO │ ├─────────────────────────────────────────────────────────────────────────────┤ │ • Frontend Web Development Roles & Internships │ │ • Software Quality Assurance   (QA) & Test Engineering Positions │ │ • Open-Source Web Projects & Collaborative Technical Development │ └─────────────────────────────────────────────────────────────────────────────┘
+> [!NOTE]
+> ### 🚀 OPEN TO OPPORTUNITIES
+> * 🎯 **Frontend Web Development**: Roles & Internships
+> * 🧪 **Software Quality Assurance (QA)**: Manual & Test Engineering Positions
+> * 🌐 **Collaborative Technical Development**: Open-Source Web Projects
 
- 
 ---
 
 <!-- 3. TECH STACK SECTION -->
@@ -258,28 +261,6 @@ Developed a clean health services portal featuring dedicated clinical department
 
 ---
 
-<!-- 9. CODING PROFILES SECTION -->
-## 📊 Coding & Developer Profiles
-
-<div align="center">
-
-<a href="https://github.com/DarshanShah228" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-DarshanShah228-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile Badge" />
-</a>
-<a href="https://leetcode.com" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
-</a>
-<a href="https://geeksforgeeks.org" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Web_%26_Algorithms-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
-</a>
-<a href="https://hackerrank.com" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Web_Development-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge" />
-</a>
-
-</div>
-
----
-
 <!-- 10. GITHUB ANALYTICS SECTION -->
 ## 📈 GitHub Analytics
 
@@ -290,40 +271,12 @@ Developed a clean health services portal featuring dedicated clinical department
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanShah228&layout=compact&theme=synthwave&hide_border=true&title_color=E0AAFF&text_color=FFFFFF&bg_color=0F051D&langs_count=8" alt="Top Languages" width="60%" />
 
 </div>
 
 ---
 
-<!-- 11. GITHUB TROPHIES SECTION -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarshanShah228&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
-<!-- 12. CONTRIBUTION ACTIVITY SECTION -->
-## 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanShah228&theme=react-dark&custom_title=GitHub%20Contribution%20Graph&bg_color=0F051D&color=C77DFF&line=7B2CBF&point=E0AAFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-<!-- 13. CONTRIBUTION SNAKE SECTION -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DarshanShah228/DarshanShah228/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-<!-- 14. CURRENT FOCUS SECTION -->
+<!-- 11. CURRENT FOCUS SECTION -->
 ## 🎯 Current Engineering Focus
 
 ```yaml
